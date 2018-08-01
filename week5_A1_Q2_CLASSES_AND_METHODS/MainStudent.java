@@ -15,11 +15,11 @@
 //		4.print student using student_Array
 //		5.print avg gpa of all students (1,2,3)	
 
-package week5_A1_Q2_CLASSES_AND_METHODS;
+package week5_A1_CLASSES_AND_METHODS.week5_A1_Q2_CLASSES_AND_METHODS;
 
 import java.util.Scanner;
 
-import week5_A1_Q2_CLASSES_AND_METHODS.Student;
+import week5_A1_CLASSES_AND_METHODS.week5_A1_Q2_CLASSES_AND_METHODS.Student;
 
 public class MainStudent {
 	  

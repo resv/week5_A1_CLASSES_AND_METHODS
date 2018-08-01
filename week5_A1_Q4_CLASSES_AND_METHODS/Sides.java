@@ -11,7 +11,7 @@
 //		---------------------------------------------------------------------------------------------------
 
 
-package week5_A1_Q4_CLASSES_AND_METHODS;
+package week5_A1_CLASSES_AND_METHODS.week5_A1_Q4_CLASSES_AND_METHODS;
 
 public class Sides {
 

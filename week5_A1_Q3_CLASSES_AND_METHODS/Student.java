@@ -13,7 +13,7 @@
 
 
 
-package week5_A1_Q3_CLASSES_AND_METHODS;
+package week5_A1_CLASSES_AND_METHODS.week5_A1_Q3_CLASSES_AND_METHODS;
 
 public class Student {
 	
