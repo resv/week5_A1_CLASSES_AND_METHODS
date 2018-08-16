@@ -21,6 +21,7 @@ public class MainStudent {
 
 //	METHOD TO GET THE NUMBER OF STUDENTS FROM USER
 		public static int getNumber() {
+			@SuppressWarnings("resource")
 			Scanner reader = new Scanner(System.in);
 			System.out.println("How many students?");
 			return reader.nextInt();
